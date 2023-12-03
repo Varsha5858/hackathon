@@ -1,0 +1,70 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    line-height: 1.5;
+}
+
+/* footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+} */
+
+/* Add the following styles to the existing CSS */
+
+section#more-information {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section#more-information h2 {
+    color: #333;
+}
+
+section#more-information p {
+    line-height: 1.6;
+}
+
+
+
